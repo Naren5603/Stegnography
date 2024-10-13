@@ -1,5 +1,5 @@
 Project Title:
-LSB Image Stegnography 
+LSB Image Stenography 
 
 Project Overview:
 This project implements steganography, a technique that hides secret information within ordinary objects, making the hidden data undetectable to the naked eye. Specifically, this project focuses on encoding a secret file (e.g., a text file, document, or binary data) into an image file by modifying its pixel values subtly. The goal is to develop a system that can embed any file into an image without significantly altering the visual appearance of the image.
